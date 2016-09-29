@@ -1,0 +1,41 @@
+
+stretchyman.png
+size: 545,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stretchyman/back arm
+  rotate: true
+  xy: 2, 2
+  size: 72, 202
+  orig: 72, 202
+  offset: 0, 0
+  index: -1
+stretchyman/back leg
+  rotate: true
+  xy: 2, 76
+  size: 100, 318
+  orig: 100, 318
+  offset: 0, 0
+  index: -1
+stretchyman/body
+  rotate: true
+  xy: 2, 178
+  size: 141, 452
+  orig: 141, 452
+  offset: 0, 0
+  index: -1
+stretchyman/front arm
+  rotate: true
+  xy: 322, 31
+  size: 145, 221
+  orig: 145, 221
+  offset: 0, 0
+  index: -1
+stretchyman/head
+  rotate: false
+  xy: 456, 217
+  size: 87, 102
+  orig: 87, 102
+  offset: 0, 0
+  index: -1
